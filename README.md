@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haroun39&layout=compact)](https://github.com/haroun39)
+
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroun39&"
+        alt="haroun39" />
+</p>
