@@ -63,7 +63,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=haroun39&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-https://github.com/haroun39/haroun39/blob/main/snake.svg
 <div align="center">
  <img src="https://github.com/haroun39/haroun39/blob/main/snake.svg" alt="Snake animation" />
 </div>
