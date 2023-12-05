@@ -5,10 +5,25 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+    <a href="https://www.linkedin.com/in/haroun-hezla-653776262/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
+    <a href="https://twitter.com/harounhezla" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    </a>
+    <a href="https://www.facebook.com/haroun.dz.90/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    </a>
+    <a href="https://www.instagram.com/haroun_hezla/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    </a>
+    <a href="https://web.telegram.org/k/@haroun_dz" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    </a>
+    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwa.me%2Fmessage%2FNM7QFFECKOQPD1%3Ffbclid%3DIwAR1t8neTSz7pk8FkVFAS7obzmtyXEkbDj5PdgPpJdb97t8rkidBD4-uWe10&h=AT0kYIOGli523oxXpdGkg1TrufkDJgqiG1-ZUhBJIpm1e69FnpGOH1vHBqhiad1BRSSHSeTAZKPzpOatZG-D42XFFxZlxQRIIWxnH_wB3wBnK7DXQAPSVRYv28_Y6fuvqxgfQA" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    </a>
+  </div>
 
 ###
 
